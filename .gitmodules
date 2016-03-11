@@ -16,3 +16,6 @@
 [submodule "employee-core-service"]
 	path = employee-core-service
 	url = git@github.com:Ordineo/employee-core-service.git
+[submodule "front-end"]
+	path = front-end
+	url = git@github.com:Ordineo/front-end.git
