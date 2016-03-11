@@ -1,0 +1,18 @@
+[submodule "gateway"]
+	path = gateway
+	url = git@github.com:Ordineo/gateway.git
+[submodule "eureka"]
+	path = eureka
+	url = git@github.com:Ordineo/eureka.git
+[submodule "hystrix"]
+	path = hystrix
+	url = git@github.com:Ordineo/hystrix.git
+[submodule "turbine"]
+	path = turbine
+	url = git@github.com:Ordineo/turbine.git
+[submodule "config"]
+	path = config
+	url = git@github.com:Ordineo/config.git
+[submodule "employee-core-service"]
+	path = employee-core-service
+	url = git@github.com:Ordineo/employee-core-service.git
