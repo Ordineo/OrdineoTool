@@ -19,3 +19,6 @@
 [submodule "front-end"]
 	path = front-end
 	url = git@github.com:Ordineo/front-end.git
+[submodule "social-composite-service"]
+	path = social-composite-service
+	url = https://github.com/Ordineo/social-composite-service.git
