@@ -22,3 +22,6 @@
 [submodule "social-composite-service"]
 	path = social-composite-service
 	url = git@github.com:Ordineo/social-composite-service.git
+[submodule "image-core-service"]
+	path = image-core-service
+	url = git@github.com:Ordineo/image-core-service.git
