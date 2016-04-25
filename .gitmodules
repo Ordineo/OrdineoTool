@@ -25,6 +25,9 @@
 [submodule "image-core-service"]
 	path = image-core-service
 	url = git@github.com:Ordineo/image-core-service.git
+[submodule "auth-server"]
+	path = auth-server
+	url = git@github.com:Ordineo/auth-server.git
 [submodule "milestone-core-service"]
 	path = milestone-core-service
 	url = git@github.com:Ordineo/milestone-core-service.git
